@@ -4,7 +4,7 @@ StudentAPI is a backend project built with ASP.NET Core and ADO.NET. It demonstr
 
 ## Features
 - RESTful API with CRUD operations
-- 🗃ADO.NET for manual database access
+- ADO.NET for manual database access
 - Layered architecture (Business, Data Access, API, Client)
 - Swagger for endpoint testing
 
